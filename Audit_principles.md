@@ -1,6 +1,6 @@
 #Description: Course notes
 
-> !00% coverage != bug free code
+> 100% coverage != bug free code
 
 - Unit Testing
 
