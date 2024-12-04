@@ -8,6 +8,8 @@ A pool of Transactions yet to be finalized in a block.
 Order of transactions in a pool can be arbitrary.
 Tx can be prioritized to finalized by paying higher gas fees.
 
+![Frontrunning](./assets/frontrun.png)
+
 ## Root cause
 
 Order of transactions minted in the block is not sequentially related to their appearance in the pool hence situations can arise where executing tx before someone elses can lead to profit/griefing.
