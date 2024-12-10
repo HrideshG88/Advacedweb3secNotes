@@ -4,6 +4,8 @@
 
 - write down goals.(ask questions from codebase.) RTFM
   - related to finding out how to do stuff. eg mint, burn etc.
+  - how main functionality works depending on protocol.
+  - what unique functionality is implemented.
   - how unique parameters are involved.
   - which currencies are used how they are handled.
 - Scope out the protocol
