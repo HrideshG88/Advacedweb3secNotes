@@ -86,3 +86,5 @@ Betting on price of asset to go down
 - Value = $7500
 - profit = -$2500(BorrowedAmount - CurrentValue)
 - Leverage = 5000/-2000 = -2.5x (Think I hit an edgecase with these numbers)
+
+## liquidation
